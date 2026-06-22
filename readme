@@ -1,0 +1,3 @@
+MULTI TENANT ARCHITECTURE:
+Multi-tenant architecture means one system serves multiple users (tenants),
+but each user’s data is isolated from others.
