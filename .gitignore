@@ -1,0 +1,32 @@
+# dependencies
+node_modules/
+Backend/node_modules/
+Frontend/node_modules/
+Frontend/vite-project/node_modules/
+
+# environment / secrets
+.env
+.env.local
+.env.*.local
+Backend/.env
+Frontend/.env
+Frontend/vite-project/.env
+
+# build output
+dist/
+Frontend/vite-project/dist/
+
+# runtime uploads
+Backend/uploads/
+
+# logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
